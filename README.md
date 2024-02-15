@@ -3,7 +3,7 @@ Continuous Deployment
 
 This lab will explore how to build a docker image and deploy it to the Google Cloud with Cloud Build. The docker container will be executed on Cloud Run.
 
- # Setting up
+ # Setting up 
 
  We will create a file named `Dockerfile` at project root folder `lab-web-cd`. Please edit the `Dockerfile` with the following:
 
